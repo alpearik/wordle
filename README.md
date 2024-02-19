@@ -7,7 +7,7 @@ Dans ce jeu, vous devrez deviner un mot choisi au hasard parmi une liste de mots
 1. Exécuter le script avec la commande suivante :
 
 ```bash
-python nom_du_script.py
+python jeumots.py
 ```
 2. Suivez les instructions pour entrer vos propositions de mots.
 3. Observez la coloration du texte pour voir quelles lettres sont correctes (vertes), partiellement correctes (jaunes) ou incorrectes (rouges).
